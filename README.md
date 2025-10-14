@@ -1,6 +1,6 @@
 #  App de Acompanhamento do Brasileirão
 
-Aplicativo desenvolvido como projeto para a disciplina de Desenvolvimento Mobile, utilizando Flutter. O app exibe a tabela de classificação do Campeonato Brasileiro, com funcionalidades de busca, detalhes de times e troca de tema.
+Aplicativo desenvolvido como projeto para a disciplina de Pragramação para dispositivos moveis, utilizando Flutter. O app exibe a tabela de classificação do Campeonato Brasileiro, com funcionalidades de busca, detalhes de times e troca de tema.
 
 ---
 

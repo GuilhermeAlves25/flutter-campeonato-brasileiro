@@ -44,3 +44,6 @@ Aplicativo desenvolvido como projeto para a disciplina de Pragramação para dis
 
 **Tela de Detalhes (Modo Claro)**
 ![Tela Detalhes Claro] https://github.com/GuilhermeAlves25/flutter-campeonato-brasileiro/blob/main/screenshots/modoclaro.png?raw=true
+
+
+Video demonstrativo no Youtube: https://youtube.com/shorts/oh78iGmKKLc?feature=share&authuser=0
